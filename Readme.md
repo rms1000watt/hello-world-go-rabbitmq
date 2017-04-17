@@ -38,5 +38,5 @@ go run requester/main.go
 
 You can visit the Admin GUI at http://127.0.0.1:15672/ to see whats going on.
 
-Username: guest
-Password: guest
+- Username: guest
+- Password: guest
